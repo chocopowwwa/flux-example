@@ -1,0 +1,1 @@
+{"jobID":"7ffad513-7f05-06e5-5ec8-607c92a164bb","spec":{"type":"policy","cause":{"Message":"","User":"chocopowwwa \u003cchocopowwwa@gmail.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
